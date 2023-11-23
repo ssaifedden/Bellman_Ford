@@ -2,11 +2,7 @@
 
 This Python script implements the Bellman Ford algorithm for finding the shortest paths in a weighted graph.
 
-
-<img width="376" alt="bellmanfordimg" src="https://github.com/ssaifedden/Bellman-Ford-/assets/151403762/44c5a470-04cb-4353-b6ea-7e91eac5a076">
-
-  
-
+<img width="376" alt="bellmanfordimg" src="https://github.com/ssaifedden/Bellman_Ford/assets/151403762/e8bfb562-d5bc-4778-bd6c-106da7548f05">
 
 ## Getting Started
 
@@ -46,9 +42,11 @@ Choose options to visualize the graph or view results.
 
 That's it! You are now ready to use the Bellman Ford algorithm.
 
-<img src ="D:\Code\Py\Bellman for<img width="505" alt="bellmanfordimg2" src="https://github.com/ssaifedden/Bellman-Ford-/assets/151403762/8d0d7854-022b-4a44-91a3-d0c0a16cc696">
-<img width="506" alt="bellmanfordimgoutput" src="https://github.com/ssaifedden/Bellman-Ford-/assets/151403762/31825a00-2237-4599-8b34-08e72966a208">
-<img width="478" alt="bellmanfordimgoutput2" src="https://github.com/ssaifedden/Bellman-Ford-/assets/151403762/bd3382bd-9a3b-4c9a-a5a5-a624df4bbba7">
+<img width="376" alt="bellmanfordimg" src="https://github.com/ssaifedden/Bellman_Ford/assets/151403762/bd615de2-7b1a-4108-bbce-dac1016354fc">
+
+<img width="506" alt="bellmanfordimgoutput" src="https://github.com/ssaifedden/Bellman_Ford/assets/151403762/229652cb-01b1-4973-865c-5c46e09f1809">
+<img width="505" alt="bellmanfordimg2" src="https://github.com/ssaifedden/Bellman_Ford/assets/151403762/43396190-98d3-4748-9454-b2b25879cb97">
+<img width="478" alt="bellmanfordimgoutput2" src="https://github.com/ssaifedden/Bellman_Ford/assets/151403762/81ec3819-583c-4388-85a0-59751089fc48">
 
 
 ### License
